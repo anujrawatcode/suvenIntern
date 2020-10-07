@@ -1,0 +1,44 @@
+body {
+    font-family: 'Secular One', sans-serif;
+}
+
+
+.header {
+    background-image: url("/1.TutorPoint/img/te.jpg");   
+    color: azure;
+}
+.jumbotron {
+    height: 29rem;
+    width: auto;
+    background: none;
+}
+.jumtext {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.col-xs-4 {
+    padding :0 2rem;
+}
+
+.container  {
+    padding-top: 7rem;
+}
+
+.form-group {
+    padding-left: 15rem;
+}
+
+.navbar-brand {
+    margin-left: 10rem;
+}
+.collapse {
+    margin-left: 5rem;
+}
+.nav-item .btn {
+    margin-left: 12rem;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
