@@ -8,6 +8,7 @@ body {
     color: azure;
 }
 .jumbotron {
+    margin-bottom: 0px;
     height: 29rem;
     width: auto;
     background: none;
@@ -41,4 +42,28 @@ body {
 
 .navbar-brand{
     font-size: 2rem;
+}
+/* Libary */
+
+.tutorial {
+    margin-top: 0px;
+  background-color: rgb(121, 121, 121);
+}
+
+.card {
+    margin: 2rem;
+  background-color: transparent;
+}
+
+.library-text {
+    padding: 3rem;
+    text-align: center;
+}
+
+.card-text {
+    color: rgb(168, 58, 39);
+}
+
+.card {
+    margin-left: 6rem;
 }
