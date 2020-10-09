@@ -1,0 +1,27 @@
+/* **************** Header *****************/
+.jumbotron {
+    
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-image: url("/2.E-Learn/img/img1.jpg");
+    background-repeat: no-repeat;
+}
+
+.jumbotron .row {
+    color: white;
+    height: auto;
+    background-image: url("/2.E-Learn/img/grad.jpg");
+}
+
+.stripTxt , .stripTxt1 {
+    text-align: center;
+}
+.stripTxt1 {
+    padding-top: 1rem;
+}
+
+.jumbotron .container {
+    padding: 12.5rem 0;
+    color: rgb(255, 255, 255);
+}
