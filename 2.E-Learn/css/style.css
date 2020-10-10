@@ -40,3 +40,17 @@
     box-shadow: rgba(0, 0, 0, 0.22) 0px 19px 43px;
     transform: translate3d(0px, -1px, 0px);
   }
+
+  /* footer */
+
+  .footer .col-lg-4 {
+      text-align: center;
+  }
+
+  .copyright {
+      padding: 2rem;
+      margin: 0;
+      background-color: black;
+      color: white;
+      text-align: center;
+  }
