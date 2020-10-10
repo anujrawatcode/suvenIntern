@@ -64,3 +64,29 @@
    
 }
 
+.form1 {
+    display: inline;
+    width: 45%;
+}
+
+.form2 {
+    display: inline;
+    width: 25%;
+}
+
+.header2 {
+    background-color: rgb(53, 206, 190);
+    text-align: center;
+}
+
+.search-bar-text {
+    color: white;
+    padding: 1rem 0;
+}
+
+.bottom {
+    text-align: center;
+}
+.bottom-text {
+    padding: 1rem 0;
+}
