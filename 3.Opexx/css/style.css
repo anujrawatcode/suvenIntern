@@ -1,0 +1,30 @@
+.jumbotron {
+    padding-top: 0px;
+}
+.jumbotron {
+    text-align: center;
+    font-weight: bold;
+    background-image: url("/3.Opexx/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-repeat: repeat-y;
+    color: white;
+}
+.display-4{
+    padding: 9rem 0;
+}
+
+.lead {
+    color: teal;
+    padding-bottom: 2rem;
+    font-weight: bolder;
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar {
+    padding: 0;
+    margin: 0;
+}
