@@ -28,3 +28,18 @@
     padding: 0;
     margin: 0;
 }
+
+/* middle */
+
+.middle {
+    text-align: center;
+}
+
+.mid-div {
+    display: inline-block;
+    margin: 20px;
+}
+
+
+
+
