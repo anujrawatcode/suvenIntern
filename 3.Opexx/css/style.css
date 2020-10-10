@@ -1,7 +1,7 @@
-.jumbotron {
+.header .jumbotron {
     padding-top: 0px;
 }
-.jumbotron {
+.header .jumbotron {
     text-align: center;
     font-weight: bold;
     background-image: url("/3.Opexx/img/bg.jpg");
@@ -10,12 +10,12 @@
     background-repeat: repeat-y;
     color: white;
 }
-.display-4{
+.header .display-4{
     padding: 9rem 0;
 }
 
-.lead {
-    color: teal;
+.header .lead {
+    color: white;
     padding-bottom: 2rem;
     font-weight: bolder;
 }
@@ -33,13 +33,34 @@
 
 .middle {
     text-align: center;
+    padding-bottom: 2rem;
 }
 
-.mid-div {
+.header .mid-div {
     display: inline-block;
     margin: 20px;
 }
 
+/* lower */
+.lower {
+    background-color: rgb(209, 202, 209);
+}
 
+.jumbo2 {
+    text-align: center;
+}
 
+.card  {
+    position: relative;
+    margin: 2rem auto;
+}
+
+.footer {
+    text-align: center;
+}
+.footimg {
+    position: relative;
+    margin-left: 5rem;
+   
+}
 
