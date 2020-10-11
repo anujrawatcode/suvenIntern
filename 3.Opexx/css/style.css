@@ -1,7 +1,7 @@
-.header .jumbotron {
+.header  .jumbotron {
     padding-top: 0px;
 }
-.header .jumbotron {
+.header  .jumbotron {
     text-align: center;
     font-weight: bold;
     background-image: url("/3.Opexx/img/bg.jpg");
@@ -90,3 +90,21 @@
 .bottom-text {
     padding: 1rem 0;
 }
+
+.bottom3 {
+   text-align: center;
+   background-color: rgba(180, 187, 177, 0.794);
+}
+
+body {
+    text-align: center;
+}
+
+.header3 {
+    margin: 4rem 0;
+}
+
+.middle-text , .bottom3-text {
+    padding: 0 30rem;
+}
+
